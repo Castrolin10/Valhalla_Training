@@ -11,7 +11,7 @@ const productos = [
 },
 
 // Objeto 2
- objeto2 = {
+  {
   idProducto: "B4ytg765K987", // ID válido
   nombreProducto: "Zapatillas de baloncesto",
   selectorCategoria: "baloncesto",
@@ -23,7 +23,7 @@ const productos = [
 },
 
 // Objeto 3
- objeto3 = {
+  {
   idProducto: "T98y7t65r4321", // ID válido
   nombreProducto: "Raqueta de tenis profesional",
   selectorCategoria: "tennis",
@@ -35,7 +35,7 @@ const productos = [
 },
 
 // Objeto 4
- objeto4 = {
+{
   idProducto: "H8y7t65r4321", // ID válido
   nombreProducto: "Balón de voleibol playa",
   selectorCategoria: "voley",
@@ -47,7 +47,7 @@ const productos = [
 },
 
 // Objeto 5
- objeto5 = {
+{
   idProducto: "J78K9mnbG654", // ID válido
   nombreProducto: "Mancuernas de gimnasio",
   selectorCategoria: "gym",
@@ -59,7 +59,7 @@ const productos = [
 },
 
 // Objeto 6
- objeto6 = {
+{
   idProducto: "A78K9mnbG654", // ID válido
   nombreProducto: "Bicicleta de montaña para niños",
   selectorCategoria: "ciclismo",
@@ -71,7 +71,7 @@ const productos = [
 },
 
 // Objeto 7
- objeto7 = {
+{
   idProducto: "S78K9mnbG654", // ID válido
   nombreProducto: "Patines en línea para adultos",
   selectorCategoria: "patinaje",
@@ -83,7 +83,7 @@ const productos = [
 },
 
 // Objeto 8
- objeto8 = {
+ {
   idProducto: "D78K9mnbG654", // ID válido
   nombreProducto: "Casco de bicicleta con luces",
   selectorCategoria: "ciclismo",
@@ -95,7 +95,7 @@ const productos = [
 },
 
 // Objeto 9
- objeto9 = {
+{
   idProducto: "F78K9mnbG654", // ID válido
   nombreProducto: "Raqueta de bádminton",
   selectorCategoria: "badminton",
